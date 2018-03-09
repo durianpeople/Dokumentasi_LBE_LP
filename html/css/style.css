@@ -1,0 +1,13 @@
+div#main {
+    position:relative;
+    background:lightgrey;
+    width: 50vw;
+    padding-bottom: 25px;
+    margin:25vh auto;
+}
+
+div#main div#title {
+    width:100%;
+    display:block;
+    text-align: center;
+}
